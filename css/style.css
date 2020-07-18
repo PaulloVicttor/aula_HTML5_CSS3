@@ -1,0 +1,30 @@
+body{
+    background: blueviolet;
+    margin-left: 50px;
+    margin-right: 50px;
+    position: absolute;
+    left: 35%;
+}
+
+ul{
+    font-size: 30px;
+    color:black;
+}
+
+a{
+    color: white;
+}
+
+p{
+    font-size: 40px;
+    
+}
+
+.img_padrao{
+    margin-bottom: 30px;
+    width: 300px;
+}
+
+.icone{
+    width: 70px;
+}
